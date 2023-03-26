@@ -3,7 +3,7 @@
 i -> insert mode
 Esc -> command mode
 
-##command mode commands:-(go using Esc button)
+## command mode commands:-(go using Esc button)
 
 h -> go left
 j -> go down
@@ -32,12 +32,12 @@ ex:- 20j goes 20 lines down
 o(small) -> insert a line "below" and goes to insert mode
 O(caps) -> insert a line "above" and goes to insert mode
      
-##Visual mode:-(go using 'V'(capital))
+## Visual mode:-(go using 'V'(capital))
 
 to select group and visually see what you have selected
 then use commands like d, ctrl+r, etc ..
 
-##moving Horizontally:- 
+## moving Horizontally:- 
 w -> takes to next word so skips a word at a time
 b -> takes one word back
 :30 -> takes to line 30
